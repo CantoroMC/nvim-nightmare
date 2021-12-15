@@ -27,6 +27,7 @@ Theoretically all plugins are already supported since as a standard their highli
   + [symbol outline](https://github.com/simrat39/symbols-outline.nvim)
   + [startify](https://github.com/mhinz/vim-startify)
   + [termdebug](https://github.com/neovim/neovim/blob/master/runtime/pack/dist/opt/termdebug/plugin/termdebug.vim)
+  + [Lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 - Tweaked Filetype Highlighting Groups
   + diff files
   + markdown
